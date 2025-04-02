@@ -52,4 +52,4 @@ More repositories on additional cybersecurity topics will be added regularly.
 - [LinkedIn](https://www.linkedin.com/in/ozgursh/)
 
 
-> "The only truly secure system is one that is powered off."
+> "The only truly secure system is one that is powered off..." — GS
