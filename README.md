@@ -20,12 +20,6 @@ I'm a seasoned cybersecurity professional with expertise in SIEM management, end
 - ISO 27001
 - OWASP
 
-### 💼 Professional Experience
-
-- **Cybersecurity Engineer / Analyst** - National Cyber Group (CyberNow Labs)
-- **Cybersecurity Specialist** - Migros AS
-- Previous roles in E-commerce Security and Visual Design
-
 ### 🏆 Certifications
 
 - CompTIA CSAP
