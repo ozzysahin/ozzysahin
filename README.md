@@ -51,5 +51,6 @@ More repositories on additional cybersecurity topics will be added regularly.
 
 - [LinkedIn](https://www.linkedin.com/in/ozgursh/)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2005993" style='border:none;'></iframe>
 
 > "The only truly secure system is one that is powered off..." — GS
